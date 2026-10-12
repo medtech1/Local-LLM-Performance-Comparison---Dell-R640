@@ -1,4 +1,4 @@
-# Dell PowerEdge R640 vs i7-6700K / RTX 2080 SUPER — Local LLM Benchmarks
+# Dell PowerEdge R640 vs i7-6700K / RTX 2080 — Local LLM Benchmarks
 
 ![Status](https://img.shields.io/badge/Status-Measured%20Results-3fb950) ![Inference](https://img.shields.io/badge/Inference-llama.cpp-58a6ff) ![Models](https://img.shields.io/badge/Models-8B%20%7C%2032B-d2a8ff) ![Date](https://img.shields.io/badge/Tested-October%202026-f78166)
 
